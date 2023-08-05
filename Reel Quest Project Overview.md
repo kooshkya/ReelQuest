@@ -12,7 +12,7 @@ This project is supposed to be the user's ultimate watch-list. These are the ini
 - User can see the movies and shows that they have marked as watched and their rating of them.
 - User can add movies or shows to their watch list.
 - User can see the items on their watch list.
-- User can search for movies using their titles, or IMDB rating.
+- User can search for movies using their titles, or IMDB id.
     if multiple items match the user's query, they are listed along with additional info.
 - User can go to the info page for a movie or show. For example they can see the start and end date, the cast, etc.
 - User can mark a show as "watching", meaning they are watching it now.
@@ -21,6 +21,8 @@ In later versions, features such as the below may be added:
 
 - New platforms such as Telegram Bot!, Android and Desktop apps can be added as clients.
 - Email verification for sign-up can be added.
+- Users can be allowed to select a profile picture.
+- Password recovery using email can be added.
 - Add actor info page.
 - Add director info page.
 - Add other role's info page.
